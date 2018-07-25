@@ -1,2 +1,2 @@
-# appwebview
-The fastest way to implement webview in your android app 
+# App Web View
+The fastest way to implement webview in your Android app 
